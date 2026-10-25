@@ -1,4 +1,4 @@
-from models import TicketAnalysis
+from backend.app.models import TicketAnalysis
 
 def analyze_ticket(ticket_details: str) -> TicketAnalysis:
 

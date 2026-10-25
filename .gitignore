@@ -1,0 +1,17 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+
+# IDE settings
+.vscode/
+backend/app/__pycache__/analyzer.cpython-315.pyc
